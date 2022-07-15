@@ -5,6 +5,12 @@
 </br>
 <a href = "mailto:arthurthur17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a> <a href="https://www.linkedin.com/in/arthur-felippe-5843ab21" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </br>
 
+<h2>Para efetuar o Download direto para sua home, copie o comando a seguir!</h2>
+
+```bash 
+git clone https://github.com/Thur17/look-my-linux.git
+```
+
 <h1> Abaixo segue algumas imagens sobre aparencia do meu linux Xubunto
 
 <h1> Icones Papirus - Yaru 
