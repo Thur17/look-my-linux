@@ -26,7 +26,8 @@ git clone https://github.com/Thur17/look-my-linux.git
 ![web 1](https://raw.githubusercontent.com/Thur17/look-my-linux/master/IMG/icons.png)
 ![web 1](https://raw.githubusercontent.com/Thur17/look-my-linux/master/IMG/themas.png)
 
-ir na pasta de usuário, pressionar Ctrl + H para visualiazar as pastas oculpas do linux,criar uma pasta com nome .icons e outra como .themas
+ir na pasta de usuário, pressionar Ctrl + H para visualiazar as pastas ocultas
+ do linux,criar uma pasta com nome .icons e outra como .themas
 
 ![web 1](https://raw.githubusercontent.com/Thur17/look-my-linux/master/IMG/criando%20pasta.png)
 
