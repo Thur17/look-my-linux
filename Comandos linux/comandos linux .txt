@@ -26,6 +26,13 @@ sudo apt-get install xfce4-sensors-plugin
 sudo chmod u+s /usr/sbin/hddtemp
 //
 
+Atualizxação de ubunto 24.04.01 
 
+https://snapcraft.io/teams-for-linux 
+
+//
+
+BKP tema gnome 
+dconf dump / > GNOME-Default-Settings.dconf
 
 
